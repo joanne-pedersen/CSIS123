@@ -1,1 +1,7 @@
-// required for class
+// Exercise 1 Write a complete program that prints Hello World to the screen.
+#include <iostream>
+
+int main()
+{
+  std::cout << "Hello World";
+}
