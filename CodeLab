@@ -5,3 +5,10 @@ int main()
 {
   std::cout << "Hello World";
 }
+
+// Exercise 2 Suppose your name was Alan Turing. Write a statement that would print your last name, followed by a comma, followed by your first name. Do not print anything else (that includes blanks).
+#include <iostream>
+using namespace std;
+int main(); {
+  std::cout << "Turing, Alan";
+}
